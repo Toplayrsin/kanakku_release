@@ -1,8 +1,14 @@
 {
-  "version": "0.1.0",
-  "releaseDate": "2026-09-06",
-  "releaseNotes": "• Initial release with store onboarding & profile settings\n• Dark Mode & Discord-style Profile Popover\n• Online Software Update Checker",
-  "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/latest",
-  "mandatory": false,
-  "previousReleases": []
+  "version": "1.0.0",
+  "releaseDate": "2026-09-10",
+  "releaseNotes": "• Added new features\n• Fixed minor bugs",
+  "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/download/v1.0.0/Kanakku_1.0.0_setup.exe",
+  "previousReleases": [
+    {
+      "version": "0.0.1",
+      "releaseDate": "2026-09-06",
+      "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/download/v0.0.1/kanakku_0.1.0_x64-setup.exe",
+      "notes": "Stable Release v0.1.0"
+    }
+  ]
 }
