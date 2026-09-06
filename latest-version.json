@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "releaseDate": "2026-09-06",
+  "releaseNotes": "• Initial release with store onboarding & profile settings\n• Dark Mode & Discord-style Profile Popover\n• Online Software Update Checker",
+  "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/latest",
+  "mandatory": false,
+  "previousReleases": []
+}
