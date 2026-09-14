@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2026-09-10",
-  "releaseNotes": "• Added new features\n• Fixed minor bugs",
-  "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/download/v1.0.0/Kanakku_1.0.0_setup.exe",
-  "previousReleases": [
-    {
-      "version": "0.0.1",
-      "releaseDate": "2026-09-06",
-      "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/download/v0.0.1/kanakku_0.1.0_x64-setup.exe",
-      "notes": "Stable Release v0.1.0"
+  "version": "0.4.0",
+  "releaseDate": "2026-09-14",
+  "pub_date": "2026-09-14T22:30:00Z",
+  "releaseNotes": "• Upgraded to Tauri v2 Desktop Engine & React 19\n• Signed Release Build with Cryptographic Auto-Updater Support\n• Enhanced Dual-Mode SQLite & In-Memory Storage Sync\n• Business Shift Date & Print Engine Improvements",
+  "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/tag/v0.4.0",
+  "mandatory": false,
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeGpFei9kQ3pVYXVpRVdJZWhyYTAwM1ZmQnlZUUNxdDNDWXUyWGVjSE9YUXBLVCtBaE55SWRqT3B3WTlkZFNFTXk0Ry9BSnBBVjZ1R0VGb1BKa1AzelZwT0ZjZzJKc1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDA2NTQ4CWZpbGU6a2FuYWtrdV8wLjQuMF94NjQtc2V0dXAuZXhlCm1DaDgxYk4yY09IVkR3Skl5YnVQZDZ5djZlY2hHTUI1ZDlwdFltUkMvQjRQTXJtSkYrQmxZaW8rVVlUTHpNZmFCbmhiWkI5TXhLS3d3U0hRRFUweENRPT0K",
+      "url": "https://github.com/Toplayrsin/kanakku_release/releases/download/v0.4.0/kanakku_0.4.0_x64-setup.exe"
     }
-  ]
+  }
 }
