@@ -1,14 +1,23 @@
 {
-  "version": "0.4.0",
-  "releaseDate": "2026-09-14",
-  "pub_date": "2026-09-14T22:30:00Z",
-  "releaseNotes": "• Upgraded to Tauri v2 Desktop Engine & React 19\n• Signed Release Build with Cryptographic Auto-Updater Support\n• Enhanced Dual-Mode SQLite & In-Memory Storage Sync\n• Business Shift Date & Print Engine Improvements",
-  "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/tag/v0.4.0",
+  "version": "0.4.7",
+  "releaseDate": "2026-09-17",
+  "pub_date": "2026-09-17T23:15:00Z",
+  "releaseNotes": "• Brie app connection intergrated \n• Add bugs to fix later",
+  "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/tag/v0.4.7",
   "mandatory": false,
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeGpFei9kQ3pVYXVpRVdJZWhyYTAwM1ZmQnlZUUNxdDNDWXUyWGVjSE9YUXBLVCtBaE55SWRqT3B3WTlkZFNFTXk0Ry9BSnBBVjZ1R0VGb1BKa1AzelZwT0ZjZzJKc1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NDA2NTQ4CWZpbGU6a2FuYWtrdV8wLjQuMF94NjQtc2V0dXAuZXhlCm1DaDgxYk4yY09IVkR3Skl5YnVQZDZ5djZlY2hHTUI1ZDlwdFltUkMvQjRQTXJtSkYrQmxZaW8rVVlUTHpNZmFCbmhiWkI5TXhLS3d3U0hRRFUweENRPT0K",
-      "url": "https://github.com/Toplayrsin/kanakku_release/releases/download/v0.4.0/kanakku_0.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZzkzUWZ2QUpMUkVlc2NFT080a3pGVHpTRk5rM0ZVb0hDeHNBYVRJU0dRM3NsaUp6VmdOdmFpMkg0SC9MaG9LUS9CTFIvUkNzWlY4czZpbkdnRFdaQlFveW1wQi9haXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM0ODA0CWZpbGU6a2FuYWtrdV8wLjQuN194NjQtc2V0dXAuZXhlCjlKVjJsU0N0TmdSMzlkdlg2dGFwQjdFRmRqZmVJZkdjdWtjeE9Rd05JcXN4cnIyUk55M0s5Wkh5Q29uREFseDBHemI2Y2JwU1pWTi9wUWcyMmpMN0JBPT0K",
+      "url": "https://github.com/Toplayrsin/kanakku_release/releases/download/v0.4.7/kanakku_0.4.7_x64-setup.exe"
     }
-  }
+  },
+  "previousReleases": [
+    {
+      "version": "0.4.0",
+      "releaseDate": "2026-09-14",
+      "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/tag/v0.4.0",
+      "exeUrl": "https://github.com/Toplayrsin/kanakku_release/releases/download/v0.4.0/kanakku_0.4.0_x64-setup.exe",
+      "notes": "Stable release v0.4.0"
+    }
+  ]
 }
