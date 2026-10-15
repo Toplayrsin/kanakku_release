@@ -1,17 +1,24 @@
 {
-  "version": "0.5.0-alpha",
-  "releaseDate": "2026-09-18",
-  "pub_date": "2026-09-18T16:15:00Z",
-  "releaseNotes": "• Now Bill are upload into Drive so that you can see bills on Drive (Add-on)\n • Google Auth work as expected\n• Need to stable the Kanakku\n• POC was implemented.",
-  "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/tag/v0.5.0-alpha",
+  "version": "0.8.1-Beta",
+  "releaseDate": "2026-10-15",
+  "pub_date": "2026-10-15 T22:00:00Z",
+  "releaseNotes": "•Bunch of updates on list"\n"• Now you can select you own font for initial and shop title separately"\n"• New page called Rate Adjustment was implemented so changing rate across bill would be easy"\n"•Cash receipt now show rupees in words (English and Tamil)"\n"• Well optimized"\n"• now you can import Lagacy database(.bak)file in to the software "\n"• Most of the bug are fixed.",
+  "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/tag/v0.8.1-beta",
   "mandatory": false,
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZzkzUWZ2QUpMUkw4U2tLNDdUVjFLMmNMeFNEOVVkWUI1UU1vSGU1ZkdiQ3gzdXBpbmIvNXRtbXJXMmhmNmtxd05iaXF1enF0dGk5RVBYVVo5NFZrZElFdmtiV2I5K3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzI2ODA0CWZpbGU6a2FuYWtrdV8wLjUuMF94NjQtc2V0dXAuZXhlCmIyc2xsVThIUFFjcXlZdlFFQlBkVHdIb1FEdXRKOEVDYzE1VEh3b1ZZRnd0eWNsdFJNR0hMYUtyTEUycGNudlV6Vm1XZ0pmWVVWblV2bkpKb3RvbUN3PT0K",
-      "url": "https://github.com/Toplayrsin/kanakku_release/releases/download/v0.5.0-alpha/kanakku_0.5.0_x64-setup.exe"
+      "url": "https://github.com/Toplayrsin/kanakku_release/releases/download/v0.8.1-beta/kanakku_0.8.1_x64-setup.exe"
     }
   },
   "previousReleases": [
+	{
+      "version": "0.5.0",
+      "releaseDate": "2026-09-18",
+      "downloadUrl": "https://github.com/Toplayrsin/kanakku_release/releases/tag/v0.5.0-alpha",
+      "exeUrl": "https://github.com/Toplayrsin/kanakku_release/releases/download/v0.5.0-alpha/kanakku_0.5.0_x64-setup.exe",
+      "notes": "Old"
+    },
     {
       "version": "0.4.71",
       "releaseDate": "2026-09-17",
